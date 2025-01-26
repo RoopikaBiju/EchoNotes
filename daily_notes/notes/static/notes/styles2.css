@@ -1,0 +1,78 @@
+/* General Styles */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* Elegant font */
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4; /* Soft light gray background */
+    color: #343a40; /* Dark gray text for readability */
+}
+
+h1 {
+    text-align: center; /* Center the heading */
+    margin-top: 20px; /* Space above the heading */
+    color: #495057; /* Darker gray for the heading */
+}
+
+form {
+    max-width: 600px; /* Limit the width of the form */
+    margin: 20px auto; /* Center the form */
+    padding: 20px; /* Padding around the form */
+    background-color: white; /* White background for the form */
+    border-radius: 10px; /* Rounded corners */
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1); /* Soft shadow for depth */
+}
+
+textarea {
+    width: 95%; /* Full width for the textarea */
+    padding: 10px; /* Padding inside the textarea */
+    border: 1px solid #ced4da; /* Light border */
+    border-radius: 5px; /* Rounded corners */
+    resize: vertical; /* Allow vertical resizing only */
+    box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.1); /* Inner shadow for depth */
+    font-size: 16px; /* Font size for the textarea */
+}
+
+button {
+    background-color: #28a745; /* Green background for the button */
+    color: white; /* White text color */
+    border: none; /* Remove border */
+    padding: 12px 20px; /* Padding inside the button */
+    border-radius: 5px; /* Rounded corners */
+    cursor: pointer; /* Pointer cursor on hover */
+    font-size: 16px; /* Font size for the button */
+    margin-top: 10px; /* Space above the button */
+    transition: background-color 0.3s; /* Smooth background color transition */
+}
+
+button:hover {
+    background-color: #218838; /* Darker green on hover */
+}
+
+a {
+    display: inline-block; /* Make the link an inline-block element */
+    margin-top: 10px; /* Space above the link */
+    text-align: center; /* Center the link */
+    color: #007bff; /* Bootstrap primary color */
+    text-decoration: none; /* Remove underline from link */
+    transition: color 0.3s; /* Smooth color transition */
+}
+
+a:hover {
+    color: #0056b3; /* Darker blue on hover */
+}
+
+.cancel-button {
+    display: inline-block; /* Make it behave like a button */
+    background-color: #dc3545; /* Red background */
+    color: white; /* White text */
+    padding: 12px 20px; /* Padding inside the button */
+    border-radius: 5px; /* Rounded corners */
+    text-decoration: none; /* Remove underline */
+    font-size: 16px; /* Font size */
+    margin-top: 10px; /* Space above the button */
+    transition: background-color 0.3s; /* Smooth background color transition */
+}
+
+.cancel-button:hover {
+    background-color: #c82333; /* Darker red on hover */
+}

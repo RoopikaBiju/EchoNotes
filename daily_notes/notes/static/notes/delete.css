@@ -1,0 +1,72 @@
+:root {
+    --paper-background: #fffaf0; /* Light paper background */
+    --note-color: #f0e6d2; /* Soft note color */
+    --text-color: #3a2a1b; /* Dark text color */
+    --border-color: #8b4513; /* Brown border color */
+    --accent-color: #6b4423; /* Darker accent color */
+}
+
+body {
+    font-family: 'Georgia', serif; /* Classic serif font */
+    background-color: var(--paper-background);
+    color: var(--text-color);
+    line-height: 1.6; /* Improved readability */
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center; /* Centered title */
+    color: var(--accent-color); /* Accent color for the title */
+    font-size: 2.5em; /* Large font size for the title */
+    margin-bottom: 20px; /* Space below the title */
+}
+
+form {
+    max-width: 500px; /* Maximum width for the form */
+    margin: 0 auto; /* Center the form */
+    background-color: var(--note-color); /* Background color for the form */
+    border: 3px dashed var(--border-color); /* Dashed border for the form */
+    padding: 30px; /* Padding inside the form */
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+}
+
+textarea {
+    width: 100%; /* Full width for textarea */
+    padding: 10px; /* Padding inside textarea */
+    border: 1px solid var(--border-color); /* Border color */
+    background-color: white; /* White background for textarea */
+    font-family: 'Georgia', serif; /* Consistent font for textarea */
+    resize: vertical; /* Allow vertical resizing */
+    margin-bottom: 20px; /* Space below textarea */
+}
+
+button {
+    background-color: var(--accent-color); /* Button background color */
+    color: var(--paper-background); /* Button text color */
+    border: none; /* No border */
+    padding: 10px 20px; /* Padding inside buttons */
+    cursor: pointer; /* Pointer cursor on hover */
+    transition: background-color 0.3s ease; /* Smooth background transition */
+    font-family: 'Georgia', serif; /* Consistent font for buttons */
+    margin-top: 10px; /* Space above buttons */
+}
+
+button:hover {
+    background-color: #8b4513; /* Darker background on hover */
+}
+
+.cancel-button {
+    background-color: #d9534f; /* Different color for cancel button */
+}
+
+.cancel-button:hover {
+    background-color: #c9302c; /* Darker color on hover for cancel button */
+}
+
+@media (max-width: 600px) {
+    form {
+        margin: 0 10px; /* Margin for smaller screens */
+        padding: 20px; /* Padding for smaller screens */
+    }
+}

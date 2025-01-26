@@ -1,0 +1,102 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif; /* Use a clean, sans-serif font */
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4; /* Light background color */
+    color: #333; /* Dark text color for readability */
+}
+
+header {
+    background-color: #4CAF50; /* Green background for the header */
+    color: white; /* White text color */
+    padding: 20px; /* Padding around the header */
+    text-align: center; /* Center the header text */
+}
+
+nav {
+    margin-top: 10px; /* Space between header and navigation */
+}
+
+nav a {
+    color: white; /* White text for links */
+    text-decoration: none; /* Remove underline from links */
+    margin: 0 15px; /* Space between links */
+}
+
+nav a:hover {
+    text-decoration: underline; /* Underline on hover for links */
+}
+
+main {
+    max-width: 600px; /* Limit the width of the main content */
+    margin: 20px auto; /* Center the main content */
+    padding: 20px; /* Padding around the main content */
+    background-color: white; /* White background for the form */
+    border-radius: 8px; /* Rounded corners */
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+}
+
+h1 {
+    margin-bottom: 20px; /* Space below the header */
+}
+
+label {
+    display: block; /* Make labels block elements */
+    margin-bottom: 5px; /* Space below labels */
+    font-weight: bold; /* Bold labels */
+}
+
+textarea {
+    width: 95%; /* Full width for the textarea */
+    padding: 10px; /* Padding inside the textarea */
+    border: 1px solid #ccc; /* Light border */
+    border-radius: 4px; /* Rounded corners */
+    resize: vertical; /* Allow vertical resizing only */
+}
+
+select {
+    width: 50%; /* Full width for the select dropdown */
+    padding: 10px; /* Padding inside the select */
+    border: 1px solid #ccc; /* Light border */
+    border-radius: 4px; /* Rounded corners */
+}
+
+button {
+    background-color: #4CAF50; /* Green background for the button */
+    color: white; /* White text color */
+    border: none; /* Remove border */
+    padding: 10px 15px; /* Padding inside the button */
+    border-radius: 4px; /* Rounded corners */
+    cursor: pointer; /* Pointer cursor on hover */
+    font-size: 16px; /* Font size for the button */
+    margin-top: 10px; /* Space above the button */
+}
+
+button:hover {
+    background-color: #45a049; /* Darker green on hover */
+}
+
+/* Styles for Edit and Delete buttons */
+.button {
+    display: inline-block; /* Make it behave like a button */
+    background-color: #007bff; /* Blue background for the button */
+    color: white; /* White text */
+    padding: 10px 15px; /* Padding inside the button */
+    border-radius: 4px; /* Rounded corners */
+    text-decoration: none; /* Remove underline */
+    font-size: 16px; /* Font size */
+    margin-top: 10px; /* Space above the button */
+    transition: background-color 0.3s; /* Smooth background color transition */
+}
+
+.button:hover {
+    background-color: #0056b3; /* Darker blue on hover */
+}
+
+footer {
+    text-align: center; /* Center the footer text */
+    margin-top: 20px; /* Space above the footer */
+    padding: 10px; /* Padding around the footer */
+    background-color: #f1f1f1; /* Light gray background for the footer */
+}

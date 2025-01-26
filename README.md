@@ -13,9 +13,13 @@ A simple journal application built with Django that allows users to create, edit
 ## 1. Features
 
 - User Login: Allows users to log in and access their shared scrapbook.
+  
 -Shared Notes: Users can create, edit, and view notes shared between them for specific dates.
+
 -Edit Tracking: Displays who last edited a note and when, providing transparency and history.
+
 -Date Navigation: Navigate through the notes by date to view past entries.
+
 -Simple UI: A clean, user-friendly interface with basic HTML/CSS, ensuring ease of use.
 
 ## 2. Installation

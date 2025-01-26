@@ -159,6 +159,7 @@ The edit page allows users to modify the content of a note. The page also shows 
   **After Deleting Page:**
     ![image](https://github.com/user-attachments/assets/3f66953d-8ecb-441d-8371-ea9b981f4299)
 
+The Delete Page in an app or website is typically used to remove or permanently delete a specific page or data from the system
 
 ## Team Contributions
 

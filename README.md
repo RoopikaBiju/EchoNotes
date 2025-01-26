@@ -161,6 +161,11 @@ The edit page allows users to modify the content of a note. The page also shows 
 
 The Delete Page in an app or website is typically used to remove or permanently delete a specific page or data from the system
 
+### Project Demo
+# Video
+[Add your demo video link here]
+*Explain what the video demonstrates*
+
 ## Team Contributions
 
     - Roopika Biju: Led the project development and implemented the backend logic using Django.

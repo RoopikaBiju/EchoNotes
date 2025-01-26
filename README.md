@@ -41,7 +41,6 @@ For Software:
 3. Usage
 4. Contributing
 5. Acknowledgments
-6. Team Contributions
 
 ###  1. Features
 
@@ -109,9 +108,52 @@ For Software:
     Thanks to the Django community for their excellent documentation and support.
     Inspiration from various open-source projects that promote collaborative development.
 
-###  6. Team Contributions
+## Screenshots
+
+Here are some screenshots of EchoNotes in action:
+
+1. Login Screen:
+
+    ![image](https://github.com/user-attachments/assets/404e3a56-ed4c-41d0-952f-09e6bacdc1e3)
+
+This is the login screen where users enter their credentials to access their shared scrapbook. Users can sign in to start collaborating and creating notes with others.
+
+2. Register Page:
+  ![image](https://github.com/user-attachments/assets/e81937b6-cb34-4dec-83f9-e00e43d777c4)
+
+This is the registration page where new users can create an account. Users enter their details such as username and password to get started with the app. Once registered, they can log in and start collaborating on notes.
+
+3. Dashboard Page
+  ![image](https://github.com/user-attachments/assets/3717706e-5c75-4eea-861a-8af641105634)
+  ![image](https://github.com/user-attachments/assets/b9d48576-f0a2-4488-a3cf-eaf34d03ffe8)
+
+The dashboard (journal page) displays a list of all notes, with the latest notes appearing first. Users can view, edit, and delete their notes
+
+4. Create Note Page
+  ![image](https://github.com/user-attachments/assets/160e6819-b718-4995-8099-1337a07f8ae2)
+
+This is the "Create Note" page where users can add new notes to their journal. The page includes a simple text editor where users can type their thoughts, and a save button to store the note. After saving, the note will appear in the dashboard, sorted by date.
+
+5. Edit Note Page
+    **Before Editing (Dashboard):**
+    ![image](https://github.com/user-attachments/assets/9e9d59e0-1dbd-4388-87dc-a35138fe74e8)
+
+   **Before Editing (In Edit page):**
+    ![image](https://github.com/user-attachments/assets/81282f57-0f2f-4281-8bb8-62fb4f9ea04f)
+    
+   **After Editing (In Edit Page):**
+   ![image](https://github.com/user-attachments/assets/7e405ce5-34da-4b44-aac6-48c6a316f90c)
+   
+    **After Editing (Dashboard):**
+    ![image](https://github.com/user-attachments/assets/bd91bd16-972f-4418-9428-8660b326df09)
+
+The edit page allows users to modify the content of a note. The page also shows the last editor’s name and the date when the note was last updated, providing full edit tracking.
+
+
+
+
+## Team Contributions
 
     - Roopika Biju: Led the project development and implemented the backend logic using Django.
     - Jenna Sara Babu: Designed the frontend interface and contributed to the user experience design.
-
 

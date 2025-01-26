@@ -42,31 +42,31 @@ A simple journal application built with Django that allows users to create, edit
       npm start
     
 ## 3. Usage
-    -Register: Create a new account to start using the application.
-    -Login: Use your credentials to log in.
-    -Create Note: Click on "Create New Journal" to add a new note.
-    -Edit Note: Click on the "Edit" button next to any note to modify it.
-    -Delete Note: Click on the "Delete" button to remove a note.
-    -View Notes: Your notes will be displayed in chronological order.
+    - Register: Create a new account to start using the application.
+    - Login: Use your credentials to log in.
+    - Create Note: Click on "Create New Journal" to add a new note.
+    - Edit Note: Click on the "Edit" button next to any note to modify it.
+    - Delete Note: Click on the "Delete" button to remove a note.
+    - View Notes: Your notes will be displayed in chronological order.
     
 ## 4. Contributing
     Contributions are welcome! If you would like to contribute to this project, please follow these steps:
 
-    -Fork the repository: Click the "Fork" button at the top right of the repository page on GitHub to create your own copy of the repository.
-    -Clone your fork: Use the following command to clone your forked repository to your local machine: 
+    - Fork the repository: Click the "Fork" button at the top right of the repository page on GitHub to create your own copy of the repository.
+    - Clone your fork: Use the following command to clone your forked repository to your local machine: 
         git clone https://github.com/RoopikaBiju/EchoNotes.git
     
-    -Create a new branch: Before making changes, create a new branch for your feature or bug fix: 
+    - Create a new branch: Before making changes, create a new branch for your feature or bug fix: 
         git checkout -b feature/YourFeature
     
-    -Make your changes: Edit the code as needed
-    -Commit your changes: After making changes, commit them with a descriptive message: 
+    - Make your changes: Edit the code as needed
+    - Commit your changes: After making changes, commit them with a descriptive message: 
         git commit -m "Add some feature"
     
-    -Push to your branch: Push your changes to your forked repository: 
+    - Push to your branch: Push your changes to your forked repository: 
         git push origin feature/YourFeature
 
-    -Open a pull request: Go to the original repository on GitHub and click the "New Pull Request" button. Select your branch and submit the pull request.
+    - Open a pull request: Go to the original repository on GitHub and click the "New Pull Request" button. Select your branch and submit the pull request.
   Thank you for considering contributing to EchoNotes!
 
 ## 5.Acknowledgements

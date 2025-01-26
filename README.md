@@ -43,7 +43,7 @@ For Software:
 5. Acknowledgments
 6. Team Contributions
 
-##  1. Features
+###  1. Features
 
 - User Login: Allows users to log in and access their shared scrapbook.
   
@@ -55,7 +55,7 @@ For Software:
 
 - Simple UI: A clean, user-friendly interface with basic HTML/CSS, ensuring ease of use.
 
-##  2. Installation
+###  2. Installation
   To set up the project locally, follow these steps:
   
   1. **Clone the repository:**
@@ -77,7 +77,7 @@ For Software:
       ```bash
       python manage.py runserver
     
-##  3. Usage
+###  3. Usage
     - Register: Create a new account to start using the application.
     - Login: Use your credentials to log in.
     - Create Note: Click on "Create New Journal" to add a new note.
@@ -85,7 +85,7 @@ For Software:
     - Delete Note: Click on the "Delete" button to remove a note.
     - View Notes: Your notes will be displayed in chronological order.
     
-##  4. Contributing
+###  4. Contributing
     Contributions are welcome! If you would like to contribute to this project, please follow these steps:
 
     - Fork the repository: Click the "Fork" button at the top right of the repository page on GitHub to create your own copy of the repository.
@@ -105,11 +105,11 @@ For Software:
     - Open a pull request: Go to the original repository on GitHub and click the "New Pull Request" button. Select your branch and submit the pull request.
   Thank you for considering contributing to EchoNotes!
 
-##  5.Acknowledgements
+###  5.Acknowledgements
     Thanks to the Django community for their excellent documentation and support.
     Inspiration from various open-source projects that promote collaborative development.
 
-##  6. Team Contributions
+###  6. Team Contributions
 
     - Roopika Biju: Led the project development and implemented the backend logic using Django.
     - Jenna Sara Babu: Designed the frontend interface and contributed to the user experience design.

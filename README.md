@@ -4,11 +4,11 @@ A simple journal application built with Django that allows users to create, edit
 
 ## Table of Contents
 
-1. [Features]
-2. [Installation]
-3. [Usage]
-4. [Contributing]
-5. [Acknowledgments]
+1. Features
+2. Installation
+3. Usage
+4. Contributing
+5. Acknowledgments
 
 ## 1. Features
 

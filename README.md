@@ -111,7 +111,7 @@ For Software:
 
 ##  6. Team Contributions
 
-    Roopika Biju: Led the project development and implemented the backend logic using Django.
-    Jenna Sara Babu: Designed the frontend interface and contributed to the user experience design.
+    - Roopika Biju: Led the project development and implemented the backend logic using Django.
+    - Jenna Sara Babu: Designed the frontend interface and contributed to the user experience design.
 
 

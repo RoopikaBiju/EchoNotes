@@ -1,7 +1,39 @@
 # EchoNotes
 
-A simple journal application built with Django that allows users to create, edit, and manage notes. Users can share notes with others and keep track of their journal entries. This application is designed to be user-friendly and provides a clean interface for managing personal notes.
+## Basic Details
+### Team Name: BitWise
 
+### Team Members
+- Member 1: Roopika Biju - Muthoot Institute of Technology and Science
+- Member 2: Jenna Sara Babu - Muthoot Institute of Technology and Science
+
+### Hosted Project Link
+[mention your project hosted project link here]
+
+### Project Description
+EchoNotes is a collaborative journal application that allows two users to create, edit, and share daily notes. It provides a clean, intuitive interface where users can log in, record memories, track edits, and navigate through past notes. Think of it as a shared digital scrapbook where users document their thoughts, experiences, and special moments.
+
+### The Problem statement
+In today’s fast-paced world, capturing memories, thoughts, and daily moments is often overlooked. EchoNotes addresses the need for a collaborative, easy-to-use digital journal that encourages people to write, reflect, and share their thoughts with someone they care about.
+
+### The Solution
+We’ve created a simple yet effective platform where users can log in, add notes, share them with another user, and track edits over time. No more scrambling to find that one journal entry you were looking for—everything is organized and accessible by date. Plus, the collaborative aspect lets you and a friend or partner create shared memories in real-time.
+
+## Technical Details
+### Technologies/Components Used
+For Software:
+- **Languages used**: 
+  - HTML
+  - CSS
+  - Python
+
+- **Frameworks used**: 
+  - Django
+    
+- **Tools used**: 
+  - SQLite (for database management)
+  - Git (for version control)
+    
 ## Table of Contents
 
 1. Features
@@ -9,6 +41,7 @@ A simple journal application built with Django that allows users to create, edit
 3. Usage
 4. Contributing
 5. Acknowledgments
+6. Team Contributions
 
 ## 1. Features
 
@@ -35,11 +68,14 @@ A simple journal application built with Django that allows users to create, edit
   
   3. **Install the required dependencies:**
       ```bash
-      npm install
-  
-  4. **Start the application:**
+      pip install -r requirements.txt
+
+  4. **Migrate the database:**
+        ```bash
+        python manage.py migrate
+  5. **Start the application:**
       ```bash
-      npm start
+      python manage.py runserver
     
 ## 3. Usage
     - Register: Create a new account to start using the application.
@@ -72,4 +108,10 @@ A simple journal application built with Django that allows users to create, edit
 ## 5.Acknowledgements
     Thanks to the Django community for their excellent documentation and support.
     Inspiration from various open-source projects that promote collaborative development.
+
+## 6. Team Contributions
+
+    Roopika Biju: Led the project development and implemented the backend logic using Django.
+    Jenna Sara Babu: Designed the frontend interface and contributed to the user experience design.
+
 

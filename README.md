@@ -163,7 +163,7 @@ The Delete Page in an app or website is typically used to remove or permanently 
 
 ### Project Demo
 # Video
-[Add your demo video link here]
+https://www.loom.com/share/1146067388c242d8bdd372461577e949?sid=0fadf081-cb82-466f-813c-caf8e00196f5
 *Explain what the video demonstrates*
 
 ## Team Contributions

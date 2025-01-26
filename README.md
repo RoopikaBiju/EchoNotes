@@ -164,7 +164,12 @@ The Delete Page in an app or website is typically used to remove or permanently 
 ### Project Demo
 # Video
 https://www.loom.com/share/1146067388c242d8bdd372461577e949?sid=0fadf081-cb82-466f-813c-caf8e00196f5
-*Explain what the video demonstrates*
+
+Created a new user named der.
+Then logged in with that id with help of its password.
+Then Created a new note to jenn. And again created a new note to the user ultramadness which was later on edited. Atlast Logged out from the user der.
+
+Now logged in the user jenn.And user jenn edited the note sent by der. And user jenn deleted the note sent by user sen. 
 
 ## Team Contributions
 

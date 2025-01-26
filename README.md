@@ -8,7 +8,7 @@
 - Member 2: Jenna Sara Babu - Muthoot Institute of Technology and Science
 
 ### Hosted Project Link
-[mention your project hosted project link here]
+http://127.0.0.1:8000/login/
 
 ### Project Description
 EchoNotes is a collaborative journal application that allows two users to create, edit, and share daily notes. It provides a clean, intuitive interface where users can log in, record memories, track edits, and navigate through past notes. Think of it as a shared digital scrapbook where users document their thoughts, experiences, and special moments.

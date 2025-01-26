@@ -149,7 +149,15 @@ This is the "Create Note" page where users can add new notes to their journal. T
 
 The edit page allows users to modify the content of a note. The page also shows the last editor’s name and the date when the note was last updated, providing full edit tracking.
 
+6. Delete a Note Page:
+   **Before Deleting Page:**
+    ![image](https://github.com/user-attachments/assets/d1389d10-4dc3-4c0c-8763-7c38278caaa1)
+    
+  **During Deleting Page:**
+    ![image](https://github.com/user-attachments/assets/639d702b-db2a-4453-b67c-22be7c3978bf)
 
+  **After Deleting Page:**
+    ![image](https://github.com/user-attachments/assets/3f66953d-8ecb-441d-8371-ea9b981f4299)
 
 
 ## Team Contributions

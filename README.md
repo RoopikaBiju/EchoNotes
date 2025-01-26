@@ -1,14 +1,14 @@
-# Journal Application: EchoNotes
+# EchoNotes
 
 A simple journal application built with Django that allows users to create, edit, and manage notes. Users can share notes with others and keep track of their journal entries. This application is designed to be user-friendly and provides a clean interface for managing personal notes.
 
 ## Table of Contents
 
-1. [Features](#features)
-2. [Installation](#installation)
-3. [Usage](#usage)
-4. [Contributing](#contributing)
-5. [Acknowledgments](#acknowledgments)
+1. [Features]
+2. [Installation]
+3. [Usage]
+4. [Contributing]
+5. [Acknowledgments]
 
 ## 1. Features
 
